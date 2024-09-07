@@ -1,2 +1,1 @@
-# AI-math
-《人工智能数学》
+# AI4mathematician
